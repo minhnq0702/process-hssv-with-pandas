@@ -1,4 +1,12 @@
-# Hướng dẫn sử dụng
-- Mở terminal, cd vào folder source code: ```cd .../process-hssv-with-pandas/```
-- Cài đặt thư việc bằng lệnh
-- Đặt file xlsx vào cùng thư mục với
+# Instructions
+- Open termianl then cd into folder source code: ```cd .../process-hssv-with-pandas/```
+- Run command:
+    ```bash
+    pip install -r  requirements.txt
+    ```
+  to install all required packages.
+- Then run command:
+    ```bash
+    python main.py
+    ```
+  to run the program.
